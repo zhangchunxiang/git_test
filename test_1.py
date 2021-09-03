@@ -4,3 +4,4 @@
 # @File : test_1.py
 # @Software :PyCharm
 print("hello git")
+print("new version")
